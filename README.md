@@ -1,5 +1,9 @@
 # Expense-Tracker
+<p>
+        This is the backend repository of Expense Tracker. It provides RESTful APIs for user profiles, JWT authentication, and utilizes Mongoose for login and registration functionalities.
+</p>
 
+        
 ### **Tech Stack**
 
 - JAVA
@@ -12,13 +16,6 @@
 - To Download JDK-https://www.oracle.com/java/technologies/java-se-glance.html
 - To Download MySQL-https://dev.mysql.com/downloads/installer/
 
-**1. Clone the repository:**
-
-    1. Clone the repository:
-
-    ```bash
-    
-    ```
 **Feature**
 
 - Account Creation for new user
