@@ -25,6 +25,10 @@
 - new expense-(Add,remove,update)
 - Expense Categories-(groceries,Leisure,Bills,Loan/EMI,Health & medicine,Utilities,Taxes)
   
+**ER Diagram**
+
+ ![drawSQL-image-export-2024-08-19](https://github.com/user-attachments/assets/620cfc77-04b2-4c45-94d6-54779dde1418)
+
 
   
 
