@@ -11,7 +11,7 @@
 ### **Requirements**
 
 - To Download IntelliJ idea-https://www.jetbrains.com/idea/download/?fromIDE=&section=windows
-- To Download Maven-https://maven.apache.org/download.cgi?.
+- To Download Maven-https://maven.apache.org/download.cgi
 - To Download JDK-https://www.oracle.com/java/technologies/java-se-glance.html
 - To Download MySQL-https://dev.mysql.com/downloads/installer/
 
